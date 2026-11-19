@@ -47,4 +47,8 @@ public class HelloWorld : MonoBehaviour
     {
         print("Foo");
     }
+    void Boo()
+    {
+        print("kilroy");
+    }
 }

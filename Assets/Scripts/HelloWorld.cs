@@ -40,10 +40,7 @@ public class HelloWorld : MonoBehaviour
         //    print("foo: " + _foo);
         //}
         //print("_max hit");
-        void Boo()
-        {
-            print("boo");
-        }
+
     }
 
     void Foo()
